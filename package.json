@@ -1,0 +1,13 @@
+{
+  "name": "agent-skill-factory",
+  "version": "1.0.0",
+  "description": "Stress testing API for generating 1000+ agent skills",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
